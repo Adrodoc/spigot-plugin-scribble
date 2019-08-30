@@ -1,0 +1,4 @@
+name: ScribblePlugin
+main: de.adrodoc.scribble.ScribblePlugin
+version: 1.0
+api-version: 1.14
